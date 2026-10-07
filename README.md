@@ -1,4 +1,6 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shitzu)](https://leetcode.com/Shitzu)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shitzu?theme=chartreuse&font=Noto%20Sans%20Old%20Persian&ext=activity)](https://leetcode.com/Shitzu)
+
+
 <!--
 **Sshitsu/Sshitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
