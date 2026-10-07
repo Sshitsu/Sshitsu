@@ -1,4 +1,4 @@
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Shitzu?theme=chartreuse&font=Noto%20Sans%20Old%20Persian&ext=heatmap)](https://leetcode.com/Shitzu)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Shitzu?theme=chartreuse&font=Noto%20Sans%20Old%20Persian&ext=contest)](https://leetcode.com/Shitzu)
 
 
 <!--
