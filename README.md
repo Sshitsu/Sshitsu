@@ -1,4 +1,4 @@
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/Shitzu)
 
 <!--
 **Sshitsu/Sshitsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
